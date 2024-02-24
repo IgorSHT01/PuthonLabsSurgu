@@ -135,6 +135,37 @@ print('Рост отца -', mfh[1][1], 'см')
 ## 08_garden
 ### задание
 
+<img width="729" alt="00_garden" src="https://github.com/IgorSHT01/PythonLabsSurgu/assets/145825325/d8de1b50-c225-42e7-912f-49d9eafb9f58">
+
+-
+
+<img width="577" alt="08_garden1" src="https://github.com/IgorSHT01/PythonLabsSurgu/assets/145825325/53be7859-3eca-4a6f-9016-e75f9d357462">
+
+## 09_shopping
+### задание
+
+<img width="391" alt="09_shops" src="https://github.com/IgorSHT01/PythonLabsSurgu/assets/145825325/1dcef2f7-5bb6-4c79-ae8c-0a2333522786">
+
+-
+
+
+<img width="532" alt="09_shops1" src="https://github.com/IgorSHT01/PythonLabsSurgu/assets/145825325/ba50525a-1084-41f9-803a-4b3489d6465d">
+
+## 10_store
+### задание
+
+
+<img width="473" alt="10_store" src="https://github.com/IgorSHT01/PythonLabsSurgu/assets/145825325/9322d56e-7544-4b26-9d64-2ba5b8a6896c">
+
+### решение
+
+
+<img width="791" alt="10_storre1" src="https://github.com/IgorSHT01/PythonLabsSurgu/assets/145825325/c82cfdac-12e9-47e2-b987-b137390f7c1a">
+
+### ответ
+
+
+<img width="269" alt="10_store2" src="https://github.com/IgorSHT01/PythonLabsSurgu/assets/145825325/12f7b23a-8496-459c-8480-65d454aaa492">
 
 
 
